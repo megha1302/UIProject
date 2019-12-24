@@ -1,0 +1,44 @@
+.block{
+    display: inline;
+    border: 2px solid;
+    padding: 70px 80px 70px 80px;
+    color: black;
+
+}
+#first{
+    background-color: powderblue;
+}
+#second{
+    background-color: burlywood;
+
+}
+#third{
+    background-color: bisque;
+}
+.main{
+    margin-left: 20%;
+}
+body{
+    margin-left: 30px;
+    margin-top: 100px; 
+    padding :20px 20px 15px 20px;
+    color: aliceblue;
+    background-color: black;
+}
+table{
+    margin-top: 150px;
+    margin-left: 150px;
+    border-collapse: collapse;
+}
+th{
+    padding:20px 50px 20px 50px;
+    text-align: center;
+}
+td{
+    padding:10px 50px 10px 50px;
+}
+.marq{
+    margin-top:10px;
+    color: brown;
+
+}

@@ -1,0 +1,15 @@
+.head{
+    background-color: black;
+    color: white;
+}
+.nav{
+    display: block;
+}
+.nav > ul{
+        position: fixed;
+        right: 0;
+        top: 50%;
+        width: 8em;
+        margin-top: -2.5em;
+        display: inline-block;
+}
